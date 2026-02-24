@@ -74,9 +74,7 @@ Source: [Kaggle](https://www.kaggle.com/datasets/mashlyn/online-retail-ii-uci)
 
 ---
 
-## Dashboard
-
-https://public.tableau.com/app/profile/jose.dominguezz/viz/CustomerRetentionDashboard_17719094833280/CustomerRetentionDashboard?publish=yes
+## [Dashboard](https://public.tableau.com/app/profile/jose.dominguezz/viz/CustomerRetentionDashboard_17719094833280/CustomerRetentionDashboard?publish=yes)
 
 ---
 
@@ -99,7 +97,3 @@ mysql -u root -p < sql/schema.sql
 ```
 
 ---
-
-## Author
-
-Built as a portfolio project to demonstrate SQL, Python, and data visualization skills for a Junior Data Analyst role.
