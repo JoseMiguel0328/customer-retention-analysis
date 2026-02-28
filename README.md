@@ -76,7 +76,7 @@ Source: [Kaggle](https://www.kaggle.com/datasets/mashlyn/online-retail-ii-uci)
 
 ## [Dashboard](https://public.tableau.com/app/profile/jose.dominguezz/viz/CustomerRetentionDashboard_17719094833280/CustomerRetentionDashboard?publish=yes)
 
-![Dashboard en Tableau](dashboard\Customer Retention Dashboard.png)
+![Dashboard en Tableau](dashboard\Customer_Retention_Dashboard.png)
 
 ---
 
