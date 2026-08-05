@@ -87,7 +87,7 @@ Source: [Kaggle](https://www.kaggle.com/datasets/mashlyn/online-retail-ii-uci)
 
 ```bash
 # 1. Clone the repo
-git clone https://github.com/your-username/customer-retention-analysis.git
+git clone https://github.com/JoseMiguel0328/customer-retention-analysis.git
 cd customer-retention-analysis
 
 # 2. Create virtual environment
